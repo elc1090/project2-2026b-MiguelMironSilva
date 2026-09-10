@@ -7,7 +7,7 @@ Projeto de implementação de site interativo, com foco na implementação do ba
 Modalidade (A | B): A
 Parceria: GABRIEL DA SILVA FRANÇA
 
-### Propostas do trabalho
+### Proposta do trabalho
 Cada usuário poderá criar sua própria conta, fazer login e ter acesso somente aos filmes favoritos e assistidos. O sistema deverá manter as informações de cada conta, incluindo seus filmes favoritados e assistidos. Ao fazer login novamente, o usuário deverá encontrar seus filmes exatamente como os encontrou.
 
 ### Funcionalidades
@@ -30,3 +30,15 @@ Frontend
 - HTML5 + CSS3 + JavaScript/TypeScript 
 - Frameworks: React.js + Vite 
 - Hospedagem: Netlify
+
+## Processo de desenvolvimento
+
+## Code pieces
+
+## Fontes
+
+## E-mail para contato
+ - misilva@inf.ufsm.br
+ - miguelmironsilva@gmail.com
+
+
