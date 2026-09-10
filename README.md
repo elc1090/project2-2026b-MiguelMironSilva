@@ -39,6 +39,14 @@ Frontend
 
 ## Fontes
 
+Webapp para busca de filmes - projeto original
+- https://github.com/mmj030703/Movie-Search-App/
+- https://movie-search-app-weld.vercel.app/
+
+Webapp para busca de filmes, com funcionalidades adicionais
+- https://github.com/elc1090/project1-2026b-gabriel-maroneze
+- https://elc1090.github.io/project1-2026b-gabriel-maroneze/
+
 ## E-mail para contato
  - misilva@inf.ufsm.br
  - miguelmironsilva@gmail.com
