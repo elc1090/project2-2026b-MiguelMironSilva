@@ -36,7 +36,7 @@ Frontend
 ### Dia 10/09/2026: 
 Estudo do projeto de estudo do aluno Gabriel Maroneze (https://github.com/elc1090/project1-2026b-gabriel-maroneze) feito para o Trabalho 1 da mesma disciplina. Usando a API TMDB (The Movie Database) para buscar os detalhes de filmes, ela faz um deploy completo de várias funcionalidades à serem implementadas no projeto em um webapp HTML/JavaScript/CSS (https://elc1090.github.io/project1-2026b-gabriel-maroneze/), sendo derivada de outro webapp para busca de filmes (https://github.com/mmj030703/Movie-Search-App/), com implementação funcional também  (https://movie-search-app-weld.vercel.app/).
 
-Principal inspiração: Usar a API TMDB para fazer o fetching dos filmes. Foi feita uma conta no TMDB e requisicionada uma chave de API para uso próprio
+Principal inspiração: Usar a API TMDB para fazer o fetching dos filmes. Foi feita uma conta no TMDB e requisicionada uma chave de API para uso próprio.
 
 ## Code pieces
 
