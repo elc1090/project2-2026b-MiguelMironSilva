@@ -25,6 +25,7 @@ Backend
 - Framework: FastAPI 
 - Banco de dados: SQLite + SQLAlchemy 
 - Hospedagem: Render
+
 Frontend
 - HTML5 + CSS3 + JavaScript/TypeScript 
 - Frameworks: React.js + Vite 
