@@ -3,7 +3,7 @@ import.meta.env.VITE_API_BASE_URL ||
 "http://127.0.0.1:8000/api";
 
 // ============================================================
-// TOKEN STORAGE
+// ARMAZENAMENTO DE TOKENS
 // ============================================================
 
 const TOKEN_KEY = "access_token";
@@ -21,7 +21,7 @@ sessionStorage.removeItem(TOKEN_KEY);
 };
 
 // ============================================================
-// REQUEST HELPERS
+// HELPERS DE REQUEST
 // ============================================================
 
 const getAuthHeaders = () => {
@@ -71,7 +71,7 @@ return data;
 };
 
 // ============================================================
-// AUTHENTICATION
+// AUTENTICAÇÃO
 // ============================================================
 
 export const register = async (
@@ -167,7 +167,7 @@ clearToken();
 };
 
 // ============================================================
-// MOVIES
+// FILMES
 // ============================================================
 
 export const searchMovies = async (query) => {
@@ -204,7 +204,7 @@ return parseResponse(response);
 };
 
 // ============================================================
-// USER MOVIE STATE
+// ESTADO DO FILME DO USUÁRIO
 // ============================================================
 
 export const getMovieState = async (tmdbId) => {

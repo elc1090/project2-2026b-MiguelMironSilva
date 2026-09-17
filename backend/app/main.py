@@ -13,9 +13,15 @@ app = FastAPI(
     version="0.1.0",
 )
 
+allowed_origins = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "https://effervescent-cranachan-cb04c0.netlify.app",
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -38,33 +44,3 @@ def health():
     return {
         "status": "ok"
     }
-
-#@app.post("/test-db")
-#def test_database():
-#    document = {
-#        "message": "MongoDB está funcionando!",
-#        "created_at": datetime.utcnow(),
-#    }
-
-#    result = db.test.insert_one(document)
-
-#    return {
-#        "status": "ok",
-#        "inserted_id": str(result.inserted_id),
-#    }
-
-#@app.get("/test-db")
-#def read_database():
-#    document = db.test.find_one(
-#        sort=[("created_at", -1)]
-#    )
-
-#    if document is None:
-#        return {
-#            "status": "empty"
-#        }
-
-#    document["_id"] = str(document["_id"])
-
-#    return document
-
