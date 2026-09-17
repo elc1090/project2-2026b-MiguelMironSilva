@@ -92,6 +92,43 @@ def health():
     }
 ````
 
+## Config da API: ##
+
+````
+from pydantic_settings import BaseSettings, SettingsConfigDict
+
+
+class Settings(BaseSettings):
+    tmdb_api_key: str
+    jwt_secret_key: str
+
+    model_config = SettingsConfigDict(
+        env_file=".env",
+        env_file_encoding="utf-8",
+    )
+
+
+settings = Settings()
+````
+
+## Manejamento do token de acesso após login: ##
+
+````
+const TOKEN_KEY = "access_token";
+
+export const getToken = () => {
+    return sessionStorage.getItem(TOKEN_KEY);
+};
+
+export const setToken = (token) => {
+    sessionStorage.setItem(TOKEN_KEY, token);
+};
+
+export const clearToken = () => {
+    sessionStorage.removeItem(TOKEN_KEY);
+};
+````
+
 ## Tecnologias
 
 ### Linguagens e afins
