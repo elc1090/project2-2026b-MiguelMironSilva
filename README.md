@@ -154,7 +154,7 @@ Frontend
 ### Ambiente de desenvolvimento
 - [Git](https://git-scm.com/)
 - [Sublime Text Editor](https://www.sublimetext.com/)
-- IA usada para planejamento, tirada de dúvidas e debugging: [ChatGPT](https://chatgpt.com/)
+- IA usada para planejamento, tirada de dúvidas e debugging: [GPT-5.6 Luna](https://chatgpt.com/)
 
 ## Referências e créditos
 
