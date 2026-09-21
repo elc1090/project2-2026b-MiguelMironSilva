@@ -29,7 +29,7 @@ Parceria: GABRIEL DA SILVA FRANÇA, RAFAEL PENTEADO KLAUE
 
 ## Feedback/comentário da parceria/cliente/usuário
 
-- [Rafael Penteado Klaue](https://jazzy-hummingbird-05a247.netlify.app/):
+- [Rafael Penteado Klaue](https://jazzy-hummingbird-05a247.netlify.app/): App de busca de filmes que filtra especificamente para filmes de faroeste (*Westerns*). Estilização excelente, muito de acordo com o tema escolhido. O sistema de avaliações funciona, mas parece que não há nada compartilhado entre os vários usuários - não dá pra ver as avaliações postadas por outros usuários. Algumas vezes o busca por palavras chave não pega filmes específicos (por exemplo, quando busco por "madre" e "treasure" não se adquire nada, mas "sierra" funciona para achar o filme The Treasure of the Sierra Madre). No mais, um app que cumpre rigorosamente com todos os requisitos pedidos, com bastante estilo!
 
 ## Desenvolvimento
 
