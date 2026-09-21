@@ -29,6 +29,8 @@ Parceria: GABRIEL DA SILVA FRANÇA, RAFAEL PENTEADO KLAUE
 
 ## Feedback/comentário da parceria/cliente/usuário
 
+- [Rafael Penteado Klaue](https://jazzy-hummingbird-05a247.netlify.app/):
+
 ## Desenvolvimento
 
 ### Processo
