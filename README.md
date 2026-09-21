@@ -5,7 +5,7 @@
 ## Acesso
 
 - Render: https://project2-2026b-miguelmironsilva.onrender.com/
-- Netlify: [effervescent-cranachan-cb04c0.netlify.app/](https://effervescent-cranachan-cb04c0.netlify.app/)
+- Netlify: https://effervescent-cranachan-cb04c0.netlify.app/
 
 ## Desenvolvedor(a)
 - Miguel Miron Silva
