@@ -135,19 +135,20 @@ export const clearToken = () => {
 
 ### Linguagens e afins
 Backend
-- Linguagem: Python
-- Framework: FastAPI 
-- Banco de dados: SQLite + SQLAlchemy 
-- Hospedagem: Render
+- Linguagem: [Python](https://docs.python.org/3/)
+- Framework: [FastAPI](https://devdocs.io/fastapi/) 
+- Banco de dados: [SQLite](https://devdocs.io/sqlite/) + [SQLAlchemy](https://docs.sqlalchemy.org/en/20/) 
+- Hospedagem: [Render](https://render.com/)
 
 Frontend
-- HTML5 + CSS3 + JavaScript/TypeScript 
-- Frameworks: React.js + Vite 
-- Hospedagem: Netlify
+- [HTML5](https://devdocs.io/html/) + [CSS3](https://devdocs.io/css/) + [JavaScript/TypeScript](https://devdocs.io/javascript/) 
+- Frameworks: [React.js](https://devdocs.io/react/) + [Vite](https://devdocs.io/vite/) 
+- Hospedagem: [Netlify](https://app.netlify.com/)
 
 ### Ambiente de desenvolvimento
-- Git
-- Sublime Text Editor
+- [Git](https://git-scm.com/)
+- [Sublime Text Editor](https://www.sublimetext.com/)
+- IA usada para planejamento, tirada de dúvidas e debugging: [ChatGPT](https://chatgpt.com/)
 
 ## Referências e créditos
 
