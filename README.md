@@ -4,8 +4,7 @@
 
 ## Acesso
 
-- Render: https://project2-2026b-miguelmironsilva.onrender.com/
-- Netlify: https://effervescent-cranachan-cb04c0.netlify.app/
+https://effervescent-cranachan-cb04c0.netlify.app/
 
 ## Desenvolvedor(a)
 - Miguel Miron Silva
@@ -155,6 +154,7 @@ Backend
 - Framework: [FastAPI](https://devdocs.io/fastapi/) 
 - Banco de dados: [SQLite](https://devdocs.io/sqlite/) + [SQLAlchemy](https://docs.sqlalchemy.org/en/20/) 
 - Hospedagem: [Render](https://render.com/)
+ Render: https://project2-2026b-miguelmironsilva.onrender.com/
 
 Frontend
 - [HTML5](https://devdocs.io/html/) + [CSS3](https://devdocs.io/css/) + [JavaScript/TypeScript](https://devdocs.io/javascript/) 
